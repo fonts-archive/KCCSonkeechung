@@ -15,7 +15,7 @@ font-family: 'KCC Sonkeechung';
 link
 
 ```
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/KCCSonkeechung/KCCSonkeechung.css"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/KCCSonkeechung/KCCSonkeechung.css" type="text/css"/>
 ```
 
 &nbsp;
