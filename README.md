@@ -4,7 +4,7 @@
 
 &nbsp;
 
-CSS
+### CSS
 
 ```
 font-family: 'KCC Sonkeechung';
@@ -12,7 +12,7 @@ font-family: 'KCC Sonkeechung';
 
 &nbsp;
 
-link
+### link
 
 ```
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/KCCSonkeechung/KCCSonkeechung.css" type="text/css"/>
@@ -20,7 +20,7 @@ link
 
 &nbsp;
 
-import
+### import
 
 ```
 @import url('https://cdn.jsdelivr.net/gh/fonts-archive/KCCSonkeechung/KCCSonkeechung.css');
@@ -28,7 +28,7 @@ import
 
 &nbsp;
 
-font-face
+### font-face
 
 ```
 @font-face {
@@ -41,4 +41,14 @@ font-face
          url('https://cdn.jsdelivr.net/gh/fonts-archive/KCCSonkeechung/KCCSonkeechung.otf') format('opentype'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/KCCSonkeechung/KCCSonkeechung.ttf') format('truetype');
 }
+```
+
+&nbsp;
+
+### 라이센스 본문
+
+```
+CCL-저작자표시 
+저작자의 이름, 저작물의 제목, 출처 등 저작자에 관한 표시를 해주어야 합니다. 
+출처(저작자)만 밝히면 상업/비영리목적으로 이용할 수 있고 저작물의 변경이 가능합니다.
 ```
